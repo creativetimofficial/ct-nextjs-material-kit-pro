@@ -343,7 +343,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com/?ref=njsmkp-readme)
+- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=njsmkp-readme)
 
 - Creative Tim [license](https://www.creative-tim.com/license?ref=njsmkp-readme)
 
