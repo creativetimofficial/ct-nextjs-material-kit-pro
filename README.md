@@ -369,6 +369,6 @@ Facebook: <https://www.facebook.com/CreativeTim>
 
 Dribbble: <https://dribbble.com/creativetim>
 
-Google+: <https://plus.google.com/+CreativetimPage>
+Github: <https://github.com/creativetimofficial>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial>
