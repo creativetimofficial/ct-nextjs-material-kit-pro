@@ -1,9 +1,3 @@
-<a href="https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf-readme-2020">
-<img border="0" alt="Creative Tim Black Friday Offer" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/bf-github-banner.png" >
-</a>
-
-
-
 # [NextJS Material Kit PRO](https://demos.creative-tim.com/nextjs-material-kit-pro?ref=njsmkp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnextjs-material-kit-pro%2Fpresentation&text=NextJS%20Material%20Kit%20PRO&via=Creative%20Tim&hashtags=nextjs%20%23creativetim%20%23material-ui%20%23react%20%23reactjs%20%23materialdesign)
 
 
