@@ -1,7 +1,7 @@
 # [NextJS Material Kit PRO](https://demos.creative-tim.com/nextjs-material-kit-pro?ref=njsmkp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnextjs-material-kit-pro%2Fpresentation&text=NextJS%20Material%20Kit%20PRO&via=Creative%20Tim&hashtags=nextjs%20%23creativetim%20%23material-ui%20%23react%20%23reactjs%20%23materialdesign)
 
 
- ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-nextjs-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nextjs-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-nextjs-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nextjs-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+ ![version](https://img.shields.io/badge/version-1.2.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-nextjs-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nextjs-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-nextjs-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nextjs-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Presentation Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nextjs-material-kit-pro/nextjs-material-kit-pro.jpg)
 
@@ -342,7 +342,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2020 Creative Tim (https://www.creative-tim.com/?ref=njsmkp-readme)
+- Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=njsmkp-readme)
 
 - Creative Tim [license](https://www.creative-tim.com/license?ref=njsmkp-readme)
 
