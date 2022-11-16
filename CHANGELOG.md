@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.3.1] 2022-11-16
+
+- Fixed the peer-dependencies issue
+- Migration to @mui v5
+
 ## [1.2.1] 2022-08-15
 
 - Fixed the issues
