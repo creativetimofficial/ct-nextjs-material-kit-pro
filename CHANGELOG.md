@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.3.2] 2023-08-22
+
+- Update dependencies
+- Fix build time issues
+
 ## [1.3.1] 2022-11-16
 
 - Fixed the peer-dependencies issue
